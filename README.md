@@ -48,7 +48,10 @@
 </head>
 <div style="background-color:#f1f1f1;padding:15px;">
   <h1>Miguel Jaimes</h1>
-  <h3>Projects, Skills and Interests</h3>
+  <h3>Programming Languages</h3>
+  <p>Python &#128013;, HTML, SQL, Excel VBA</p>
+  <h3>Software</h3>
+  <p>Tableau Data Visualization, Excel, VSCode, PyCharm</p>
 </div>
 
 <body style="font-family:Arial;">
@@ -66,11 +69,10 @@
   </div>
 
   <div class="main">
-    <h2>Replace Text</h2>
-    <p>Replace Text - Replace Text - Replace Text - Replace Text.</p>
-    <iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
-    </iframe>    
+    <h2>Projects</h2>
+    <p>View my projects by programming language</p>
       </p>      
+      <div class="flourish-embed flourish-cards" data-src="visualisation/10812031"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
       <!-- begin wwww.htmlcommentbox.com -->
  <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">HTML Comment Box</a> is loading comments...</div>
  <link rel="stylesheet" type="text/css" href="https://www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
@@ -78,16 +80,8 @@
 <!-- end www.htmlcommentbox.com -->
 </div>
 
-  <div class="right">
-    <h2>Programming Languages</h2>
-    <p>Python &#128013;, HTML, SQL, Excel VBA</p>
-    <h2>Software</h2>
-    <p>Tableau Data Visualization, Excel, VSCode, PyCharm</p>
-  </div>
-</div>
 
-
-<div style="background-color:#f1f1f1;text-align:center;padding:10px;margin-top:7px;font-size:12px;"> Email: miguelrjaimes1@gmail.com </div>
+<div style="background-color:#f1f1f1;text-align:center;padding:10px;margin-top:7px;font-size:12px;"> contact me at miguelrjaimes1@gmail.com </div>
 
 </body>
 </html>
