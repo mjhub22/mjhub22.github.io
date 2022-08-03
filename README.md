@@ -59,8 +59,7 @@
 
   <div class="main">
     <h2>Projects</h2>
-    <p>View my projects by programming language</p>
-      </p>      
+    <p>View my projects by programming language</p>  
       <div class="flourish-embed flourish-cards" data-src="visualisation/10812031"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
       <h2>Programming Languages</h2>
       <p>Python &#128013;, HTML, SQL, Excel VBA</p>
@@ -72,5 +71,4 @@
  <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="https://www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24nlI%2FRs6Kb0IEsnaC3wvpX1"+"&opts=16798&num=10&ts=1659499823558");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
 <!-- end www.htmlcommentbox.com -->
 </div>
-</body>
-</html>
+
