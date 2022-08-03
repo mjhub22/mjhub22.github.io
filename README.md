@@ -12,7 +12,7 @@
 .menuitem {
   padding: 8px;
   margin-top: 7px;
-  border-bottom: 1px solid #f1f1f1;
+  border-bottom: 1px solid #4478a0;
 }
 .main {
   float: left;
@@ -20,14 +20,6 @@
   padding: 0 20px;
   overflow: hidden;
 }
-.right {
-  background-color: rgb(173, 205, 230);
-  float: left;
-  width: 20%;
-  padding: 10px 15px;
-  margin-top: 7px;
-}
-
 @media only screen and (max-width:800px) {
   /* For tablets: */
   .main {
@@ -46,12 +38,9 @@
 }
 </style>
 </head>
-<div style="background-color:#f1f1f1;padding:15px;">
+<div style="background-color:#4478a0;padding:15px;">
   <h1>Miguel Jaimes</h1>
-  <h3>Programming Languages</h3>
-  <p>Python &#128013;, HTML, SQL, Excel VBA</p>
-  <h3>Software</h3>
-  <p>Tableau Data Visualization, Excel, VSCode, PyCharm</p>
+
 </div>
 
 <body style="font-family:Arial;">
@@ -73,16 +62,15 @@
     <p>View my projects by programming language</p>
       </p>      
       <div class="flourish-embed flourish-cards" data-src="visualisation/10812031"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+      <h2>Programming Languages</h2>
+      <p>Python &#128013;, HTML, SQL, Excel VBA</p>
+      <h2>Software</h2>
+      <p>Tableau Data Visualization, Excel, VSCode, PyCharm</p>
       <!-- begin wwww.htmlcommentbox.com -->
  <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">HTML Comment Box</a> is loading comments...</div>
  <link rel="stylesheet" type="text/css" href="https://www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
  <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="https://www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24nlI%2FRs6Kb0IEsnaC3wvpX1"+"&opts=16798&num=10&ts=1659499823558");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
 <!-- end www.htmlcommentbox.com -->
 </div>
-
-
-<div style="background-color:#f1f1f1;text-align:center;padding:10px;margin-top:7px;font-size:12px;"> contact me at miguelrjaimes1@gmail.com </div>
-
 </body>
 </html>
-
