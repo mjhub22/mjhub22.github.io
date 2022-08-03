@@ -1,26 +1,15 @@
-<!Doctype html>
-<html>
-<style>
-#container {
-  width: 400px;
-  height: 400px;
-  position: relative;
-  background: yellow;
+<script>
+const x = document.getElementById("demo");
+function getLocation() {
+  if (navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition(showPosition);
+  } else {
+    x.innerHTML = "Geolocation is not supported by this browser.";
+  }
 }
-#animate {
-  width: 50px;
-  height: 50px;
-  position: absolute;
-  background: red;
+
+function showPosition(position) {
+  x.innerHTML = "Latitude: " + position.coords.latitude +
+  "<br>Longitude: " + position.coords.longitude;
 }
-</style>
-<body>
-
-<h2>My First JavaScript Animation</h2>
-
-<div id="container">
-<div id="animate"></div>
-</div>
-
-</body>
-</html>
+</script>
