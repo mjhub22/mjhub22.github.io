@@ -48,7 +48,7 @@
 </head>
 <div style="background-color:#f1f1f1;padding:15px;">
   <h1>Miguel Jaimes</h1>
-  <h3>Projects and Experience</h3>
+  <h3>Projects, Skills and Interests</h3>
 </div>
 
 <body style="font-family:Arial;">
@@ -56,7 +56,6 @@
     <script>
     !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
     </script>
-
 <div style="overflow:auto">
   <div class="menu">
     <div class="menuitem"> <a href="https://www.w3schools.com/html/default.asp">HTML tutorial</a> </div>
@@ -66,9 +65,12 @@
   </div>
 
   <div class="main">
-    <h2>The Walk</h2>
-    <p>The walk from Monterosso to Riomaggiore will take you approximately two hours, give or take an hour depending on the weather conditions and your physical shape.</p>
-  </div>
+    <h2>Replace Text</h2>
+    <p>Replace Text - Replace Text - Replace Text - Replace Text.</p>
+    <iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+    </iframe>    
+      </p>      
+</div>
 
   <div class="right">
     <h2>Programming Languages</h2>
