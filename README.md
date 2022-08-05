@@ -62,7 +62,7 @@
 
 <div style="overflow:auto">
   <div class="menu">
-    <h2>Projects</h2>
+    <h2>Project Links</h2>
     <div class="menuitem"> <a href="https://twitter.com/M_Bot22">Twitter AI Bot</a> </div>
     <div class="menuitem"> <a href="https://twitter.com/M_Bot22">Project 2</a> </div>
     <div class="menuitem"> <a href="https://twitter.com/M_Bot22">Project 3</a> </div>
@@ -76,7 +76,7 @@
       <h2>Programming Languages</h2>
       <p>Python &#128013;, HTML, SQL, Excel VBA</p>
       <h2>Softwares, Libraries & Systems</h2>
-      <p>Tableau Data Visualization, Excel, VSCode, Tweepy, OpenAI, Crontab</p>
+      <p>Tableau, Excel, VSCode, Tweepy, OpenAI, Crontab</p>
 
       <!-- begin wwww.htmlcommentbox.com -->
  <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">HTML Comment Box</a> is loading comments...</div>
