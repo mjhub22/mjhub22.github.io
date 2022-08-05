@@ -54,6 +54,7 @@
       <td>Email: miguelrjaimes1@gmail.com</td>
     </tr>
   </table>
+</div>
 
 <body style="font-family:Arial;">
     <script>
@@ -64,15 +65,18 @@
   <div class="menu">
     <h2>Projects</h2>
     <div class="menuitem"> <a href="https://twitter.com/M_Bot22">Twitter AI Bot</a> </div>
-    <div class="menuitem"> <a href="https://www.w3schools.com/html/default.asp">Project 2</a> </div>
-    <div class="menuitem"> <a href="https://www.w3schools.com/html/default.asp">Project 3</a> </div>
-    <div class="menuitem"> <a href="https://www.w3schools.com/html/default.asp">Project 4</a> </div>
+    <div class="menuitem"> <a href="https://twitter.com/M_Bot22">Project 2</a> </div>
+    <div class="menuitem"> <a href="https://twitter.com/M_Bot22">Project 3</a> </div>
+    <div class="menuitem"> <a href="https://twitter.com/M_Bot22">Project 4</a> </div>
   </div>
 
   <div class="main"> 
+      <h2>Project Descriptions</h2>
+      <p> Project 1 | Twitter AI Bot | Python &#128013;</p>
+      <p>Python script that composes tweets (via Tweepy) using an Artificial Intelligence (via OpenAI) every 10 minutes (via Crontab). @M_Bot22 composes tweets that consist of computer programming jokes, motivational quotes and computer programming related questions.</p>
       <h2>Programming Languages</h2>
       <p>Python &#128013;, HTML, SQL, Excel VBA</p>
-      <h2>Softwares,Libraries & Systems</h2>
+      <h2>Softwares, Libraries & Systems</h2>
       <p>Tableau Data Visualization, Excel, VSCode, Tweepy, OpenAI, Crontab</p>
 
       <!-- begin wwww.htmlcommentbox.com -->
@@ -80,4 +84,3 @@
  <link rel="stylesheet" type="text/css" href="https://www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
  <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="https://www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24nlI%2FRs6Kb0IEsnaC3wvpX1"+"&opts=16798&num=10&ts=1659499823558");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
 <!-- end www.htmlcommentbox.com -->
-</div>
