@@ -54,7 +54,6 @@
       <td>Email: miguelrjaimes1@gmail.com</td>
     </tr>
   </table>
-</div>
 
 <body style="font-family:Arial;">
     <script>
