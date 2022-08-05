@@ -46,15 +46,6 @@
     border:1px solid black;
   }
   </style>
-  <body>
-  
-  <table style="width:100%">
-    <tr>
-      <td>Miguel Jaimes</td>
-      <td>Email: miguelrjaimes1@gmail.com</td>
-    </tr>
-  </table>
-
 <body style="font-family:Arial;">
     <script>
     !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
