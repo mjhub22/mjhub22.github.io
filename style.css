@@ -1,0 +1,31 @@
+html {
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+}
+/* Container holding image and the text */
+.container {
+  position: relative;
+}
+/* Bottom right text with a solid color box background*/
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(254, 165, 140));
+  color: rgb(255, 255, 255);
+  padding-left: 20px;
+  padding-right: 20px;
+}
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+html {
+  background-image: radial-gradient( circle farthest-corner at -4.5% 34.3%,  rgba(13,20,174,1) 0%, rgba(243,165,140,1) 90% );
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+
