@@ -58,7 +58,7 @@
     <body>
     
     <ul>
-      <li><a href="#home">Home</a></li>
+      <li></a></li>
       <li class="dropdown">
         <a href="javascript:void(0)" class="dropbtn">Projects</a>
         <div class="dropdown-content">
