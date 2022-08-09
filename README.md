@@ -24,7 +24,7 @@
     }
     
     li a:hover, .dropdown:hover .dropbtn {
-      background-image: radial-gradient( circle farthest-corner at -4.5% 34.3%,  rgba(13,20,174,1) 0%, rgba(243,165,140,1) 90% );
+      background-image: radial-gradient( circle farthest-corner at -4.5% 34.3%,  rgb(172, 18, 255) 0%, rgba(243,165,140,1) 90% );
     }
     
     li.dropdown {
@@ -34,7 +34,7 @@
     .dropdown-content {
       display: none;
       position: absolute;
-      background-color: #f9f9f9;
+      background-image: radial-gradient( circle farthest-corner at -4.5% 34.3%,  rgba(13,20,174,1) 0%, rgba(243,165,140,1) 90% );
       min-width: 160px;
       box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
       z-index: 1;
@@ -226,11 +226,15 @@
         dots[slideIndex-1].className += " active";
       }
       </script>
-    <h3>Dropdown Menu inside a Navigation Bar</h3>
-    <p>Hover over the "Dropdown" link to see the dropdown menu.</p>
-    <p>At Mozilla, we’re a global community of</p>
-    <p>working together to keep the Internet alive and accessible, so people worldwide can be informed contributors and creators of the Web. We believe this act of human collaboration across an open platform is essential to individual growth and our collective future.</p>
-
-    <p>Read the <a href="https://www.mozilla.org/en-US/about/manifesto/">Mozilla Manifesto</a> to learn even more about the values and principles that guide the pursuit of our mission.</p>
+<h1>Project Description 1 | Twitter AI Bot | Python &#128013;</h1>
+<p>My first project is a Python script that composes tweets via Tweepy Python library to access the Twitter API. The script uses an Artificial Intelligence Python library (Open AI) to access the OpenAI API. The script is scheduled to run every 10 minutes using the Crontab program. @M_Bot22 composes tweets that consist of computer programming jokes, motivational quotes and computer programming related questions.</p>
+<h1>Programming Languages</h1>
+<p>Excel VBA</p>
+<p>SQL</p>
+<p>Python &#128013;</p>
+<p>HTML</p>
+<p>CSS</p>
+<h1>Softwares, Libraries & Systems</h1>
+<p>Tableau, Excel, VSCode, Tweepy, OpenAI, Crontab</p>
 </body>
 </html>
