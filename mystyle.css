@@ -1,8 +1,11 @@
 #mystyle.css
-body {
-    background-color: rgb(0, 0, 0);
-  }
 
+/ {background-color: black;
+}
+
+html {
+    background-color: black;
+}
 .aboutme {
     background-color: red;
     font-family: Arial;
