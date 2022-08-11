@@ -4,15 +4,9 @@
 </head>
 <body>
 <!----hero Section start---->
-	<div class="hero">
-		<nav>
-			<h2 class="logo"> My<span>Portfolio</span></h2>
-			<a href="#" class="btn">Comment</a>
-		</nav>
-		<div class="content">
-			<h1>Miguel <span>Jaimes</span></h1>
-		</div>
-	</div>
+<div class="hero">
+		<h2 style="text-align: center;" class="logo"> Miguel Jaimes <span>Portfolio</span></h2>
+	</div>>
 <!----About section start---->
 	<section class="about">
 		<div class="main">
