@@ -31,7 +31,6 @@
 				<h2 style="text-align: center;"> Experience</h2>
 				<h5> Programming Languages <span>Softwares, Libraries & Systems</span></h5>
 				<p>I have some experience in the following program languages: Python &#128013; | HTML | SQL | Excel VBA. I have also used or currently use the following softwares, libraries and systems: Tableau | Excel | VSCode | Tweepy | OpenAI | Crontab.</p>
-				<button type="button">Let's Talk</button>
 			</div>
 		</div>
 	</section>
@@ -45,10 +44,10 @@
 				<i class="fas fa-user"></i>
 				<h5>Twitter AI Bot</h5>
 				<div class="pra">
-					<p>@M_Bot22 composes tweets that consist of computer programming jokes, motivational quotes and computer programming related questions.</p>
+					<p>@M_Bot22 tweets computer programming related jokes, questions and motivational quotes.</p>
 
 					<p style="text-align: center;">
-						<a class="button" href="#">Read More</a>
+						<a class="button" href="https://twitter.com/M_Bot22">View Project</a>
 					</p>
 				</div>
 			</div>
@@ -60,7 +59,7 @@
 					<p>TBD</p>
 
 					<p style="text-align: center;">
-						<a class="button" href="#">Read More</a>
+						<a class="button" href="#">View Project</a>
 					</p>
 				</div>
 			</div>
@@ -71,7 +70,7 @@
 				<div class="pra">
 					<p>TBD</p>
 					<p style="text-align: center;">
-						<a class="button" href="#">Read More</a>
+						<a class="button" href="#">View Project</a>
 					</p>
 				</div>
 			</div>
