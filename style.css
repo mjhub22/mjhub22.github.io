@@ -2,6 +2,20 @@
 *{
 	background: black;
 }
+.Newtitle{
+	width: 100%;
+	padding: 100px 0px;
+	background-color: #191919;
+	color: white;
+}
+.Newtitle img{
+	height: auto;
+	width: auto;
+}
+.Newtitle-text{
+	width: 550px;
+}
+
 html{
   background: #304352;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #d7d2cc, #304352);  /* Chrome 10-25, Safari 5.1-6 */
@@ -233,9 +247,7 @@ h5{
 .comment-box{
 	width: 100%;
 	height: 290px;
-	background: #304352;  /* fallback for old browsers */
-  	background: -webkit-linear-gradient(to right, #d7d2cc, #304352);  /* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to right, #d7d2cc, #304352); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  
+	background-color: #292929;
 	display: flex;
 	align-items: center;
 	flex-direction: column;
