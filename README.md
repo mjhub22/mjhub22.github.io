@@ -3,10 +3,10 @@
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-<!----hero Section start---->
-<div class="hero">
-		<h2 style="text-align: center;" class="logo"> Miguel Jaimes <span>Portfolio</span></h2>
-	</div>>
+<!-- NEW TITLE START -->
+<section class="Newtitle">
+<h2 style="text-align: center;"> Welcome To My Online Portfolio </h2>
+</section>
 <!----About section start---->
 	<section class="about">
 		<div class="main">
