@@ -1,0 +1,14 @@
+#mystyle.css
+body {
+    background-color: rgb(0, 0, 0);
+  }
+
+.aboutme {
+    background-color: red;
+    font-family: Arial;
+}
+
+.projects {
+    background-color: red;
+    font-family: Arial;
+}
