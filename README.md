@@ -15,20 +15,12 @@
 				<li><a href="#">Home</a></li>
 				<li><a href="#">Experience</a></li>
 				<li><a href="Projects">Projects</a></li>
-				<li><a href="#">Comments</a></li>
 			</ul>
-			<a href="#" class="btn">Contact Me</a>
+			<a href="#" class="btn">Comment</a>
 		</nav>
 		<div class="content">
-			<h4>Hi, my name is</h4>
 			<h1>Miguel <span>Jaimes</span></h1>
 			<h3>I'm a Web Developer.</h3>
-			<div class="newslatter">
-				<form>
-					<input type="email" name="email" id="mail" placeholder="Enter Your Email">
-					<input type="submit" name="submit" value="Lets Start">
-				</form>
-			</div>
 		</div>
 	</div>
 <!----About section start---->
