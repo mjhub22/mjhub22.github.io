@@ -1,5 +1,5 @@
 #style.css
-html {
+html{
   background: #304352;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #d7d2cc, #304352);  /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to right, #d7d2cc, #304352); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  
@@ -29,7 +29,7 @@ nav{
 	padding-right: 8%;
 }
 .logo{
-	color: white;
+	color: rgb(0, 0, 0);
 	font-size: 35px;
 	letter-spacing: 1px;
 	cursor: pointer;
@@ -43,7 +43,7 @@ nav ul li{
 	padding: 10px  25px;
 }
 nav ul li a{
-	color: white;
+	color: rgb(0, 0, 0);
 	text-decoration: none;
 	font-weight: bold;
 	text-transform: capitalize;
@@ -54,7 +54,7 @@ nav ul li a:hover{
 }
 .btn{
 	background-color:#ff5500;
-	color: white;
+	color: rgb(0, 0, 0);
 	text-decoration: none;
 	border: 2px solid transparent;
 	font-weight: bold;
@@ -72,12 +72,12 @@ nav ul li a:hover{
 	transform: translateY(-50%);
 }
 h1{
-	color: white;
+	color: rgb(0, 0, 0);
 	margin: 20px 0px 20px;
 	font-size: 75px;
 }
 h3{
-	color: white;
+	color: rgb(0, 0, 0);
 	font-size: 25px;
 	margin-bottom: 50px;
 }
