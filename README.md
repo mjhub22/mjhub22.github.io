@@ -1,77 +1,104 @@
-
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-  body { 
-  background-image: url(https://images.pexels.com/photos/4321069/pexels-photo-4321069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
-}
-* {
-  box-sizing: border-box;
-}
-.menu {
-  float: left;
-  width: 20%;
-}
-.menuitem {
-  padding: 8px;
-  margin-top: 7px;
-  border-bottom: 2px solid #ffffff;
-}
-.main {
-  float: left;
-  width: 60%;
-  padding: 0 20px;
-  overflow: hidden;
-}
-@media only screen and (max-width:800px) {
-  /* For tablets: */
-  .main {
-    width: 80%;
-    padding: 0;
-  }
-  .right {
-    width: 100%;
-  }
-}
-@media only screen and (max-width:500px) {
-  /* For mobile phones: */
-  .menu, .main, .right { 
-    width: 100%;
-  }
-}
-</style>
+	<title>Portfolio Website</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
-<style>
-  table, th, td {
-    border:1px solid black;
-  }
-  </style>
-<body style="font-family:Arial;">
-    <script>
-    !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
-    </script>
+<body>
+<!----hero Section start---->
+	<div class="hero">
+		<nav>
+			<h2 class="logo"> My<span>Portfolio</span></h2>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Experience</a></li>
+				<li><a href="Projects">Projects</a></li>
+				<li><a href="#">Comments</a></li>
+			</ul>
+			<a href="#" class="btn">Contact Me</a>
+		</nav>
+		<div class="content">
+			<h4>Hi, my name is</h4>
+			<h1>Miguel <span>Jaimes</span></h1>
+			<h3>I'm a Web Developer.</h3>
+			<div class="newslatter">
+				<form>
+					<input type="email" name="email" id="mail" placeholder="Enter Your Email">
+					<input type="submit" name="submit" value="Lets Start">
+				</form>
+			</div>
+		</div>
+	</div>
+<!----About section start---->
+	<section class="about">
+		<div class="main">
+			<!-- delete <img src="img/main-img.png"> delete -->
+			<div class="about-text">
+				<h2 style="text-align: center;"> Experience</h2>
+				<h5> Programming Languages <span>Softwares, Libraries & Systems</span></h5>
+				<p>I have some experience in the following program languages: Python &#128013; | HTML | SQL | Excel VBA. I have also used or currently use the following softwares, libraries and systems: Tableau | Excel | VSCode | Tweepy | OpenAI | Crontab.</p>
+				<button type="button">Let's Talk</button>
+			</div>
+		</div>
+	</section>
+<!-----Projects section start----------->
+	<div class="service">
+		<div class="title">
+			<h2>Projects</h2>
+		</div>
+		<div class="box">
+			<div class="card">
+				<i class="fas fa-user"></i>
+				<h5>Twitter AI Bot</h5>
+				<div class="pra">
+					<p>@M_Bot22 composes tweets that consist of computer programming jokes, motivational quotes and computer programming related questions.</p>
 
-<div style="overflow:auto">
-  <div class="menu">
-    <h2>Project Links</h2>
-    <div class="menuitem"> <a href="https://twitter.com/M_Bot22">Twitter AI Bot</a> </div>
-    <div class="menuitem"> <a href="https://twitter.com/M_Bot22">Project 2</a> </div>
-    <div class="menuitem"> <a href="https://twitter.com/M_Bot22">Project 3</a> </div>
-    <div class="menuitem"> <a href="https://twitter.com/M_Bot22">Project 4</a> </div>
-  </div>
+					<p style="text-align: center;">
+						<a class="button" href="#">Read More</a>
+					</p>
+				</div>
+			</div>
 
-  <div class="main"> 
-      <h2>Project Descriptions</h2>
-      <p> Project 1 | Twitter AI Bot | Python &#128013;</p>
-      <p>Python script that composes tweets (via Tweepy) using an Artificial Intelligence (via OpenAI) every 10 minutes (via Crontab). @M_Bot22 composes tweets that consist of computer programming jokes, motivational quotes and computer programming related questions.</p>
-      <h2>Programming Languages</h2>
-      <p>Python &#128013;, HTML, SQL, Excel VBA</p>
-      <h2>Softwares, Libraries & Systems</h2>
-      <p>Tableau, Excel, VSCode, Tweepy, OpenAI, Crontab</p>
+			<div class="card">
+				<i class="far fa-bell"></i>
+				<h5>Project 2</h5>
+				<div class="pra">
+					<p>TBD</p>
 
-      <!-- begin wwww.htmlcommentbox.com -->
- <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">HTML Comment Box</a> is loading comments...</div>
+					<p style="text-align: center;">
+						<a class="button" href="#">Read More</a>
+					</p>
+				</div>
+			</div>
+
+			<div class="card">
+				<i class="far fa-bell"></i>
+				<h5>Project 3</h5>
+				<div class="pra">
+					<p>TBD</p>
+					<p style="text-align: center;">
+						<a class="button" href="#">Read More</a>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+<!-- Comment Box -->
+ <div class="comment-box" id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">HTML Comment Box</a> is loading comments...</div>
  <link rel="stylesheet" type="text/css" href="https://www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
  <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="https://www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24nlI%2FRs6Kb0IEsnaC3wvpX1"+"&opts=16798&num=10&ts=1659499823558");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
 <!-- end www.htmlcommentbox.com -->
+</div>
+<!------footer start--------->
+	<footer>
+		<p>Miguel Jaimes</p>
+		<div class="social">
+			<a href="#"><i class="fab fa-facebook-f"></i></a>
+			<a href="#"><i class="fab fa-instagram"></i></a>
+			<a href="#"><i class="fab fa-dribbble"></i></a>
+		</div>
+	</footer>
+</body>
+</html>
