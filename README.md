@@ -1,26 +1,16 @@
 <html>
 <head>
-	<title>Portfolio Website</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
-	<link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body>
 <!----hero Section start---->
 	<div class="hero">
 		<nav>
 			<h2 class="logo"> My<span>Portfolio</span></h2>
-			<ul>
-				<li><a href="#">Home</a></li>
-				<li><a href="#">Experience</a></li>
-				<li><a href="Projects">Projects</a></li>
-			</ul>
 			<a href="#" class="btn">Comment</a>
 		</nav>
 		<div class="content">
 			<h1>Miguel <span>Jaimes</span></h1>
-			<h3>I'm a Web Developer.</h3>
 		</div>
 	</div>
 <!----About section start---->
