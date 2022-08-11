@@ -72,6 +72,7 @@
 					<p style="text-align: center;">
 						<a class="button" href="#">View Project</a>
 					</p>
+				</div>
 			</div>
 		</div>
 	</div>
