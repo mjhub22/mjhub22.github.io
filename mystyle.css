@@ -2,12 +2,19 @@
 /* CSS Code does not work without this place keeper for some reason */
 / {background-color: black;
 }
-
+::backdrop {
+    /* Gradient Background */
+    background: #283048;  
+    background: -webkit-linear-gradient(to right, #859398, #283048);
+    background: linear-gradient(to right, #859398, #283048);  
+}
 html {
-         /* Gradient Background */
-         background: #283048;  
-         background: -webkit-linear-gradient(to right, #859398, #283048);
-         background: linear-gradient(to right, #859398, #283048);  
+    /* Select Font */
+    font-family: Arial;
+    /* Gradient Background */
+    background: #283048;  
+    background: -webkit-linear-gradient(to right, #859398, #283048);
+    background: linear-gradient(to right, #859398, #283048);  
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 100px;
