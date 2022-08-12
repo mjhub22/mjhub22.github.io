@@ -9,7 +9,6 @@
 </head>
 <body>
     <div class="header">
-      <h1>Welcome To My Online Portfolio</h1>
       <p>My Name is Miguel Jaimes</p>
       <p>Computer Programmer | Data Analyst | VR Enthusiast </p>
     </div>
