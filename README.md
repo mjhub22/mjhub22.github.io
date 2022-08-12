@@ -10,7 +10,7 @@
 <body>
     <div class="header">
       <h1>Welcome To My Online Portfolio</h1>
-      <p>My Name is Miguel</p>
+      <p>My Name is Miguel Jaimes</p>
       <p>Computer Programmer | Data Analyst | VR Enthusiast </p>
     </div>
     
@@ -20,8 +20,8 @@
     
 <div class="row">
     <div class="column">
-        <h2>Column</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet pretium urna. Vivamus venenatis velit nec neque ultricies, eget elementum magna tristique. Quisque vehicula, risus eget aliquam placerat, purus leo tincidunt eros, eget luctus quam orci in velit. Praesent scelerisque tortor sed accumsan convallis.</p>
+        <h2>Project Description | Twitter AI Bot | Python &#128013;</h2>
+        <p>A Twitter AI bot using the Tweepy python library to access Twitters API. Uses OpenAI to compose tweets that consist of computer programming jokes, questions and motivational quotes. The python script is set to run every 10 minutes using a Crontab command which allows for the script to be ran at regularly schedueld intervals.</p>
       </div>
       
       <div class="column">
