@@ -10,7 +10,11 @@
 <body>
     <div class="header">
         <h1> </h1>
-    <h1>Twitter: @m_bot22 <h1> Computer Programmer | Data Analyst | VR Enthusiast <h1> Miguel Jaimes </h1>
+    <h1>Twitter: @m_bot22</h1>
+    <h1>Computer Programmer | Data Analyst | VR Enthusiast</h1>
+    <h1>Miguel Jaimes</h1>
+
+    <h1> </h1>
     </div>
     
 <div class="topnav">
