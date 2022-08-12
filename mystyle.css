@@ -14,9 +14,17 @@
   .header {
     font-family: arial;
     background-color: #f1f1f1;
-    padding: 20px;
+    padding: 10px;
     text-align: center;
-    background-image: linear-gradient( 135deg, #FFF6B7 10%, #F6416C 100%);
+    color: #f2f2f2;
+    background-image: url('https://media.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif');
+    background-size: cover;
+    
+    
+    
+    height: 60vh;
+    padding:0;
+    margin:0;
   }
   
   /* Style the top navigation bar */
@@ -60,7 +68,6 @@
   /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
   @media screen and (max-width:600px) {
     .column {
-    background-image: linear-gradient( 135deg, #FFF6B7 10%, #F6416C 100%);
       width: 100%;
     }
   }
