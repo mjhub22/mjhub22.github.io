@@ -38,7 +38,6 @@
   <br>
   <br>
   <br>
-  <br>
   </div>
 <!-- Start Comments Section -->
 <div class="comments" id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">HTML Comment Box</a> is loading comments...</div>
