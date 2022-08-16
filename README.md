@@ -22,7 +22,7 @@
 <div>
 <!-- TWITTER AI BOT DESCRIPTION -->
 <h2> Twitter AI Bot | Python &#128013;</h2>
-<p>A Twitter AI bot I coded using the Tweepy python library to access Twitters API. The python script uses OpenAI to compose tweets that consist of computer programming jokes, questions and motivational quotes. The python script is set to run every 10 minutes using a Crontab command which allows for the script to be ran at regularly schedueld intervals.</p>
+<p>My first Python programming project, coded using the Tweepy python library to access Twitters API. The python script uses OpenAI to compose tweets that consist of computer programming jokes, questions and motivational quotes. The python script is set to run every 10 minutes using a Crontab command which allows for the script to be ran at regularly scheduled intervals.</p>
 </div>
 <div>
   <!-- 2nd DESCRIPTION -->
