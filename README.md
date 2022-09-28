@@ -5,7 +5,7 @@
 <br>
   <h1> Miguel Jaimes <br>
 <br>
-  Web Developer | Analyst | VR Enthusiast <br>
+  Web Developer | VR Enthusiast <br>
 <br>
   Twitter @M_Bot22 </h1>  
 </div>
