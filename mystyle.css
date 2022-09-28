@@ -22,6 +22,12 @@
     margin:0;
   }
 
+h1 {
+  font-family: sans-serif;
+  color: #000000;
+  text-align: center;
+}
+
 h2 {
   font-family: sans-serif;
   color: #000000;
